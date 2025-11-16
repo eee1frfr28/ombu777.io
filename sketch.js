@@ -79,7 +79,7 @@ const StonePath = {
 };
 
 function setup() {
-  createCanvas(900, 600);
+  createCanvas(1280, 720);
   StonePath.init();
 }
 
